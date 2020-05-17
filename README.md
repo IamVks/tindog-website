@@ -8,4 +8,4 @@ An app landing page which is created using bootstrap class and simple html
   3. HTML<br>
   
   ## Screenshots:
- <img src="screenshots/full-size.png" width="275"> <img src="screenshots/homescreenl.png" width="275">
+ <img src="screenshots/full-size.png" width="275"> <img src="screenshots/home-screenl.png" width="275">
